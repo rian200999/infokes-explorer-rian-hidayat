@@ -1,15 +1,15 @@
-# Elysia with Bun runtime
+# Infokes Explorer - Frontend
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+The frontend interface for the Infokes technical test, built with **Vue 3 (Composition API)** and **Vite**.
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
+## 🛠 Tech Stack
+- Vue 3
+- Vite
+- CSS (Modern Layout with Flexbox)
 
-Open http://localhost:3000/ with your browser to see the result.
+## 🚀 How to Run
+1. Open terminal in this folder: `cd infokes-frontend`
+2. Install dependencies: `npm install`
+3. Start development server: `npm run dev`
+
+*The application will be accessible at http://localhost:5173*
